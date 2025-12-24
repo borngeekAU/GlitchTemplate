@@ -1,0 +1,2 @@
+# GlitchTemplate
+First AI project 
