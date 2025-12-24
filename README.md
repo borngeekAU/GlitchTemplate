@@ -10,8 +10,8 @@ A complete, customizable media kit template for creators building a glitch/analo
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/media-kit-template.git
-cd media-kit-template
+git clone https://github.com/borngeekAU/GlitchTemplate
+cd GitchTemplate
 ```
 
 ### 2. Configure Your Brand
