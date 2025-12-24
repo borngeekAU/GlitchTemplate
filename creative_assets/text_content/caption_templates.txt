@@ -1,0 +1,250 @@
+================================================================================
+                    RUKSPIN ARCHIVE V2.1 - CAPTION TEMPLATES
+                         Ready-to-Use Social Media Captions
+================================================================================
+
+TRANSMISSION CAPTIONS (Video Posts)
+================================================================================
+
+TEMPLATE 1 - STANDARD TRANSMISSION:
+-----------------------------------
+[TRANSMISSION_{NUMBER}] // RECOVERED: {DATE}
+STATUS: {COMPLETE/PARTIAL/CORRUPTED}
+Signal origin: UNKNOWN
+
+The archive grows.
+
+#glitchstitch #recovereddata #analog #glitchart #vhsaesthetic
+
+---
+
+TEMPLATE 2 - MYSTERIOUS:
+-----------------------------------
+[TRANSMISSION_{NUMBER}]
+
+They weren't supposed to find this.
+
+Frequency: {XXX.XX} MHz
+Timestamp: {DATE/TIME}
+
+#glitchstitch #recovereddata #mystery #glitch
+
+---
+
+TEMPLATE 3 - NARRATIVE:
+-----------------------------------
+[DATA_RECOVERY_LOG]
+
+Another fragment surfaces.
+Origin: CLASSIFIED
+Status: RECONSTRUCTED
+
+What do you see?
+
+#glitchstitch #analog #datamoshing #creativeprocess
+
+---
+
+TEMPLATE 4 - ENGAGEMENT:
+-----------------------------------
+[TRANSMISSION_{NUMBER}] // ACTIVE
+
+Something's hidden in this one.
+Pause if you find it.
+
+First to screenshot wins.
+
+#glitchstitch #hiddenmessage #pauseworthy #challenge
+
+---
+
+TEMPLATE 5 - SERIES:
+-----------------------------------
+[{SERIES_NAME}] // PART {X} OF {Y}
+
+The signal continues...
+
+Previous: [Link or reference]
+Archive: [Landing page link]
+
+#glitchstitch #series #recovereddata
+
+
+STATIC FRAME CAPTIONS (Image Posts)
+================================================================================
+
+TEMPLATE 1 - EXTRACTED FRAME:
+-----------------------------------
+[STATIC_FRAME_{NUMBER}]
+
+Extracted from TRANSMISSION_{NUMBER}
+Frame: {XXXX} of {XXXX}
+
+Did you catch it?
+
+#glitchstitch #staticframe #glitchart #pauseworthy
+
+---
+
+TEMPLATE 2 - STANDALONE:
+-----------------------------------
+[SIGNAL_CAPTURE_{NUMBER}]
+
+Frozen in transmission.
+{DATE} // {TIME}
+
+#glitchstitch #analog #vhsaesthetic #digitalart
+
+---
+
+TEMPLATE 3 - CRYPTIC:
+-----------------------------------
+[FRAME_{NUMBER}]
+
+{CRYPTIC MESSAGE OR COORDINATES}
+
+#glitchstitch #mystery #hiddenmessage
+
+
+AUDIO CAPTIONS (When Applicable)
+================================================================================
+
+TEMPLATE 1 - SIGNAL NOISE:
+-----------------------------------
+[SIGNAL_NOISE_{NUMBER}]
+
+Frequency captured: {XXX.XX} MHz
+Duration: {XX:XX}
+Status: ISOLATED
+
+Headphones recommended.
+
+#glitchstitch #sounddesign #ambient #analog
+
+---
+
+TEMPLATE 2 - ATMOSPHERIC:
+-----------------------------------
+[AUDIO_LOG_{NUMBER}]
+
+Background interference from TRANSMISSION_{NUMBER}
+Cleaned and enhanced.
+
+#glitchstitch #audio #atmosphere
+
+
+ENGAGEMENT CAPTIONS
+================================================================================
+
+TEMPLATE 1 - QUESTION:
+-----------------------------------
+[DATA_LOG]
+
+The archive asks:
+{QUESTION RELATED TO CONTENT OR NARRATIVE}
+
+Drop your answer below.
+
+#glitchstitch #community #engagement
+
+---
+
+TEMPLATE 2 - MILESTONE:
+-----------------------------------
+[SYSTEM_UPDATE]
+
+{NUMBER} signals recovered.
+{NUMBER} frequencies scanned.
+{NUMBER} of you watching.
+
+The archive thanks you.
+
+#glitchstitch #milestone #thankyou
+
+---
+
+TEMPLATE 3 - CALL TO ACTION:
+-----------------------------------
+[BROADCAST]
+
+New transmission incoming.
+Turn on notifications.
+Don't miss the signal.
+
+Link in bio for the full archive.
+
+#glitchstitch #newcontent #linkinbio
+
+
+BEHIND-THE-SCENES CAPTIONS
+================================================================================
+
+TEMPLATE 1 - PROCESS:
+-----------------------------------
+[BEHIND_THE_SIGNAL]
+
+How TRANSMISSION_{NUMBER} was recovered.
+
+Tools: {LIST}
+Time: {DURATION}
+Attempts: {NUMBER}
+
+#glitchstitch #behindthescenes #process #creator
+
+---
+
+TEMPLATE 2 - WORKSPACE:
+-----------------------------------
+[RECOVERY_STATION]
+
+Where the signals are processed.
+
+#glitchstitch #workspace #creator #setup
+
+
+COLLABORATION CAPTIONS
+================================================================================
+
+TEMPLATE 1 - FEATURE:
+-----------------------------------
+[SIGNAL_BOOST] // @{COLLABORATOR}
+
+Two frequencies aligned.
+Signal amplified.
+
+Check their archive: @{COLLABORATOR}
+
+#glitchstitch #collab #signalboost
+
+---
+
+TEMPLATE 2 - DUET/STITCH:
+-----------------------------------
+[FREQUENCY_MERGE] // @{ORIGINAL_CREATOR}
+
+Their signal. My interference.
+
+#glitchstitch #duet #stitch
+
+
+================================================================================
+                    HASHTAG REFERENCE
+================================================================================
+
+ALWAYS USE:
+#glitchstitch
+#recovereddata
+
+ROTATE THESE:
+#analog #glitchart #vhsaesthetic #datamoshing #digitalart
+#shortform #creatorlife #mystery #hiddenmessage #pauseworthy
+
+PLATFORM SPECIFIC:
+TikTok: #fyp #foryou #viral
+Instagram: #reels #explorepage #igcreators
+YouTube: #shorts #youtubeshorts
+
+
+================================================================================
+                         END OF CAPTION TEMPLATES
+================================================================================

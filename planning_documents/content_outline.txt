@@ -1,0 +1,193 @@
+================================================================================
+                    RUKSPIN ARCHIVE V2.1 - CONTENT OUTLINE
+                         GLITCH_STITCH Content Strategy
+================================================================================
+
+OVERVIEW
+--------------------------------------------------------------------------------
+
+This document outlines the content flow and structure for the GLITCH_STITCH
+creative project. All content follows the "recovered data" narrative device,
+presenting original creative work as analog transmissions recovered from
+corrupted data streams.
+
+
+CONTENT PILLARS
+--------------------------------------------------------------------------------
+
+1. TRANSMISSION SERIES (Primary Content)
+   - Short-form video content (15-60 seconds)
+   - Platforms: TikTok, Instagram Reels, YouTube Shorts
+   - Frequency: 3-5 posts per week
+   - Theme: "Recovered" footage with glitch aesthetic
+
+2. SIGNAL NOISE (Audio Content)
+   - Atmospheric audio elements
+   - Background tracks for videos
+   - Standalone audio posts (where supported)
+
+3. STATIC FRAMES (Visual Content)
+   - Still images with glitch effects
+   - "Pause-worthy" frames hidden in videos
+   - Promotional graphics
+
+4. DATA LOGS (Text Content)
+   - Captions and descriptions
+   - Narrative text elements
+   - Community engagement posts
+
+
+CONTENT CALENDAR TEMPLATE
+--------------------------------------------------------------------------------
+
+WEEK STRUCTURE:
+
+Monday:     TRANSMISSION upload (primary video)
+Tuesday:    Community engagement / replies
+Wednesday:  STATIC FRAME post (image)
+Thursday:   Behind-the-scenes or process content
+Friday:     TRANSMISSION upload (primary video)
+Saturday:   Engagement / trend participation
+Sunday:     Planning and content creation
+
+
+TRANSMISSION FORMAT GUIDE
+--------------------------------------------------------------------------------
+
+STRUCTURE (15-60 second videos):
+
+0:00-0:03   - Static/noise intro (brand recognition)
+0:03-0:05   - "SIGNAL DETECTED" text overlay
+0:05-0:XX   - Main content with glitch effects
+0:XX-0:XX   - Hidden frame (pause-worthy element)
+0:XX-END    - "TRANSMISSION ENDED" + static outro
+
+REQUIRED ELEMENTS:
+[ ] Opening static/noise
+[ ] GLITCH_STITCH branding
+[ ] Main content segment
+[ ] At least one "hidden" frame
+[ ] Closing static/noise
+[ ] Appropriate audio treatment
+
+
+HIDDEN FRAME STRATEGY
+--------------------------------------------------------------------------------
+
+PURPOSE:
+- Encourage viewers to pause and explore
+- Drive traffic to landing page
+- Create community engagement (screenshot sharing)
+- Build mystery around the narrative
+
+PLACEMENT:
+- 1-3 frames within each video
+- Positioned at unexpected moments
+- Contains: QR code, URL, cryptic message, or visual cue
+
+TYPES:
+1. QR Code Frame - Links to landing page
+2. Text Frame - Cryptic message or coordinates
+3. Image Frame - Unique graphic or symbol
+4. URL Frame - Direct website link
+
+
+CAPTION TEMPLATES
+--------------------------------------------------------------------------------
+
+STANDARD TRANSMISSION:
+"[TRANSMISSION_XXX] // RECOVERED: [DATE] // STATUS: [COMPLETE/PARTIAL]
+Signal origin: UNKNOWN
+#glitchstitch #recovereddata #analog #glitchart"
+
+STATIC FRAME:
+"[STATIC_FRAME_XXX] // EXTRACTED FROM TRANSMISSION_XXX
+Pause if you found it.
+#glitchstitch #hiddenmessage #pauseworthy"
+
+ENGAGEMENT POST:
+"[DATA_LOG] // The archive grows.
+What have you recovered?
+#glitchstitch #community"
+
+
+HASHTAG STRATEGY
+--------------------------------------------------------------------------------
+
+PRIMARY (always use):
+#glitchstitch
+#recovereddata
+
+SECONDARY (rotate):
+#glitchart #analogaesthetic #vhseffect #datamoshing
+#digitalart #shortform #creatorlife
+
+TRENDING (use when relevant):
+[Monitor platform trends and incorporate authentically]
+
+
+CONTENT SERIES IDEAS
+--------------------------------------------------------------------------------
+
+1. "ORIGIN TRANSMISSIONS"
+   - Backstory content for GLITCH_STITCH character
+   - Mysterious, cryptic narrative elements
+
+2. "FREQUENCY SCANS"
+   - Audio-focused content
+   - Atmospheric, ambient pieces
+
+3. "CORRUPTED MEMORIES"
+   - Nostalgic content with glitch treatment
+   - Relatable themes through the aesthetic lens
+
+4. "SIGNAL BOOST"
+   - Collaboration content
+   - Community features
+
+5. "ARCHIVE UPDATES"
+   - Behind-the-scenes
+   - Process and creation content
+
+
+ENGAGEMENT GUIDELINES
+--------------------------------------------------------------------------------
+
+RESPOND TO:
+- Questions about the narrative
+- Technical questions about effects
+- Collaboration inquiries
+- Positive engagement
+
+MAINTAIN CHARACTER:
+- Responses can be "in character" as GLITCH_STITCH
+- Use technical/data terminology
+- Keep mystery alive
+- Be helpful while staying on-brand
+
+COMMUNITY BUILDING:
+- Acknowledge viewers who find hidden frames
+- Create inside jokes and references
+- Encourage user-generated content
+- Feature community discoveries
+
+
+METRICS TO TRACK
+--------------------------------------------------------------------------------
+
+PRIMARY:
+- View count per transmission
+- Engagement rate (likes, comments, shares)
+- Follower growth rate
+- Landing page traffic from content
+
+SECONDARY:
+- Hidden frame discovery rate
+- Comment sentiment
+- Share/save ratio
+- Cross-platform performance
+
+
+================================================================================
+                         END OF CONTENT OUTLINE
+================================================================================
