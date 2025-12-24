@@ -1,0 +1,259 @@
+================================================================================
+                    RUKSPIN ARCHIVE V2.1 - PLATFORM STRATEGY
+                         Multi-Platform Distribution Guide
+================================================================================
+
+PLATFORM OVERVIEW
+--------------------------------------------------------------------------------
+
+This document outlines the strategy for distributing GLITCH_STITCH content
+across multiple platforms, optimizing for each platform's unique requirements
+and audience behaviors.
+
+
+PRIMARY PLATFORMS
+================================================================================
+
+1. TIKTOK
+--------------------------------------------------------------------------------
+
+PRIORITY: HIGH (Primary discovery platform)
+
+SPECIFICATIONS:
+- Aspect Ratio: 9:16 (vertical)
+- Resolution: 1080x1920 minimum
+- Duration: 15-60 seconds optimal
+- File Format: MP4, MOV
+- Max File Size: 287.6 MB
+
+OPTIMIZATION:
+- Hook within first 1-2 seconds
+- Use trending sounds when appropriate (with glitch treatment)
+- Leverage TikTok-specific features (stitches, duets)
+- Post during peak hours (varies by audience)
+
+BEST PRACTICES:
+- Native upload preferred over cross-posting
+- Engage with comments within first hour
+- Use 3-5 relevant hashtags
+- Include call-to-action in caption
+
+POSTING SCHEDULE:
+- Optimal times: 7-9 AM, 12-3 PM, 7-9 PM (audience timezone)
+- Frequency: 1-2 posts per day maximum
+- Consistency over volume
+
+
+2. INSTAGRAM REELS
+--------------------------------------------------------------------------------
+
+PRIORITY: HIGH (Brand building platform)
+
+SPECIFICATIONS:
+- Aspect Ratio: 9:16 (vertical)
+- Resolution: 1080x1920
+- Duration: 15-90 seconds
+- File Format: MP4
+- Max File Size: 4 GB
+
+OPTIMIZATION:
+- First frame should be visually striking
+- Use Instagram's native editing features sparingly
+- Cross-promote to Stories
+- Utilize Collab feature for partnerships
+
+BEST PRACTICES:
+- Write longer, more detailed captions
+- Use up to 30 hashtags (mix of sizes)
+- Add location tags when relevant
+- Respond to comments and DMs
+
+POSTING SCHEDULE:
+- Optimal times: 11 AM-1 PM, 7-9 PM
+- Frequency: 1 Reel per day, Stories daily
+- Maintain grid aesthetic
+
+
+3. YOUTUBE SHORTS
+--------------------------------------------------------------------------------
+
+PRIORITY: MEDIUM-HIGH (Discoverability + Archive)
+
+SPECIFICATIONS:
+- Aspect Ratio: 9:16 (vertical)
+- Resolution: 1080x1920
+- Duration: Up to 60 seconds
+- File Format: MP4, MOV, AVI, etc.
+- Max File Size: 256 GB
+
+OPTIMIZATION:
+- Strong thumbnail (auto-selected frame)
+- SEO-optimized titles and descriptions
+- End screens not available for Shorts
+- Can link to longer content
+
+BEST PRACTICES:
+- Upload as "Short" not regular video
+- Use #Shorts in title or description
+- Create playlists for series
+- Cross-promote with long-form content
+
+POSTING SCHEDULE:
+- Optimal times: 12-3 PM, 7-9 PM
+- Frequency: Daily if possible
+- Batch upload for consistency
+
+
+SECONDARY PLATFORMS
+================================================================================
+
+4. TWITTER/X
+--------------------------------------------------------------------------------
+
+PRIORITY: MEDIUM (Community engagement)
+
+USE CASE:
+- Teasers and previews
+- Community interaction
+- Behind-the-scenes content
+- Announcements
+
+SPECIFICATIONS:
+- Video: Up to 2:20 (140 seconds)
+- Aspect Ratio: 16:9 or 1:1 preferred
+- Max File Size: 512 MB
+
+STRATEGY:
+- Post video teasers with link to full content
+- Engage in relevant conversations
+- Use quote tweets for engagement
+- Thread format for longer narratives
+
+
+5. DISCORD (Community Hub)
+--------------------------------------------------------------------------------
+
+PRIORITY: MEDIUM (Dedicated community)
+
+USE CASE:
+- Exclusive content previews
+- Community discussion
+- Hidden frame reveals
+- Direct fan interaction
+
+SETUP:
+- Create themed channels (transmissions, static-frames, etc.)
+- Bot for announcements
+- Roles for engagement levels
+- Archive channel for all content
+
+
+CROSS-PLATFORM STRATEGY
+================================================================================
+
+CONTENT ADAPTATION
+--------------------------------------------------------------------------------
+
+Not all content should be identical across platforms. Adapt based on:
+
+1. PLATFORM CULTURE
+   - TikTok: Trend-aware, fast-paced
+   - Instagram: Polished, aesthetic-focused
+   - YouTube: Discoverable, searchable
+   - Twitter: Conversational, timely
+
+2. AUDIENCE EXPECTATIONS
+   - Each platform has different user behaviors
+   - Adjust captions, hashtags, and CTAs accordingly
+
+3. TECHNICAL REQUIREMENTS
+   - Export multiple versions if needed
+   - Optimize for each platform's compression
+
+
+POSTING WORKFLOW
+--------------------------------------------------------------------------------
+
+1. CREATE master content file (highest quality)
+2. EXPORT platform-specific versions
+3. WRITE platform-specific captions
+4. SCHEDULE posts (use scheduling tools)
+5. MONITOR performance across platforms
+6. ENGAGE with audience on each platform
+7. ANALYZE and adjust strategy
+
+
+SCHEDULING TOOLS
+--------------------------------------------------------------------------------
+
+RECOMMENDED:
+- Later (Instagram, TikTok)
+- Buffer (Multi-platform)
+- Hootsuite (Enterprise)
+- Native scheduling (when available)
+
+WORKFLOW:
+- Batch create content weekly
+- Schedule 1-2 weeks in advance
+- Leave room for trend participation
+- Review and adjust as needed
+
+
+ANALYTICS & OPTIMIZATION
+================================================================================
+
+KEY METRICS BY PLATFORM
+--------------------------------------------------------------------------------
+
+TIKTOK:
+- Views, Likes, Comments, Shares
+- Watch time and completion rate
+- Follower growth
+- Profile visits
+
+INSTAGRAM:
+- Reach, Impressions
+- Engagement rate
+- Saves and Shares
+- Story interactions
+
+YOUTUBE:
+- Views, Watch time
+- Subscribers gained
+- Click-through rate
+- Audience retention
+
+OPTIMIZATION CYCLE:
+1. Post content
+2. Monitor performance (24-48 hours)
+3. Identify top performers
+4. Analyze what worked
+5. Apply learnings to future content
+6. Repeat
+
+
+PLATFORM-SPECIFIC FEATURES TO LEVERAGE
+--------------------------------------------------------------------------------
+
+TIKTOK:
+- Duets and Stitches
+- Sounds and trending audio
+- Effects and filters
+- LIVE streaming
+
+INSTAGRAM:
+- Stories (polls, questions, links)
+- Collab posts
+- Guides for content curation
+- Close Friends for exclusives
+
+YOUTUBE:
+- Community posts
+- Playlists
+- End screens (long-form)
+- Channel membership
+
+
+================================================================================
+                         END OF PLATFORM STRATEGY
+================================================================================

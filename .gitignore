@@ -1,0 +1,30 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large media files (add your own as needed)
+# *.mp4
+# *.mov
+# *.wav
+# *.mp3
+
+# Node modules (if you add any build tools)
+node_modules/
+
+# Environment files
+.env
+.env.local

@@ -1,0 +1,22 @@
+{
+  "brand": {
+    "name": "BRAND_NAME",
+    "tagline": "RECOVERED DATA ARCHIVE",
+    "description": "A data recovery entity operating between analog and digital realms.",
+    "short_name": "B_N",
+    "version": "2.1"
+  },
+  "social": {
+    "handle": "@your_handle",
+    "tiktok_url": "#",
+    "instagram_url": "#",
+    "youtube_url": "#"
+  },
+  "contact": {
+    "email": "contact@example.com"
+  },
+  "meta": {
+    "keywords": "glitch, archive, recovered data, analog, digital art",
+    "author": "@your_handle"
+  }
+}
